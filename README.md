@@ -59,4 +59,4 @@ Hello My name Azka Pratama Putra, you can call me AzkaPrata or Azka. I'm a **Ful
 
 **Follow Me For Update Repo, Or Tweets**
 
-> AzkaPrata @Cimahi 2022
+> AzkaPrata @Cimahi, JawaBarat, Indonesia 2022
