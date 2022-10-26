@@ -1,6 +1,6 @@
 # Azka Pratama Putra
 ## About Me 
-Hello My name Azka Pratama Putra, you can call me AzkaPrata or Azka. I'm a **Full Stack** Web Developer, and **Backend** Web Developer with Python, Javascript and PHP
+Hello My name Azka Pratama Putra, you can call me AzkaPrata or Azka. I'm a **Full Stack** Web Developer, and **Backend** Web Developer with Python, NodeJS and PHP
 
 ## My Skills
 
@@ -12,6 +12,7 @@ Hello My name Azka Pratama Putra, you can call me AzkaPrata or Azka. I'm a **Ful
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shield.io/badge/python-3776AB.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Frontend Skill:
 
@@ -24,6 +25,7 @@ Hello My name Azka Pratama Putra, you can call me AzkaPrata or Azka. I'm a **Ful
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shield.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 - Tools
 
